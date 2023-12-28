@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "spring.mvc.cors.allowed-origins=localhost",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.cors.allowed-origins=localhost'"
+  },
+  {
+    "name": "spring.mvc.cors.allowed-methods",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.cors.allowed-methods'"
+  },
+  {
+    "name": "spring.mvc.cors.allow-credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.cors.allow-credentials'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.access-expireMillisecond",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.access-expireMillisecond'"
+  },
+  {
+    "name": "jwt.refresh-expireMillisecond",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.refresh-expireMillisecond'"
+  },
+  {
+    "name": "messages.basename",
+    "type": "java.lang.String",
+    "description": "A description for 'messages.basename'"
+  },
+  {
+    "name": "messages.encoding",
+    "type": "java.lang.String",
+    "description": "A description for 'messages.encoding'"
+  },
+  {
+    "name": "jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "jpa.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "jpa.properties.hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa.properties.hibernate.show_sql'"
+  }
+]}
